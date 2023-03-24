@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-BCompSc
-CCNA - Cisco Certified Network Associate
-Google Ads Partner
-Google Cloud Architect
-AWS Cloud Architect
-Oracle Cloud Partner
+BCompSc<br>
+CCNA - Cisco Certified Network Associate<br>
+Google Ads Partner<br>
+Google Cloud Architect<br>
+AWS Cloud Architect<br>
+Oracle Cloud Partner<br>
 
 
 ### More Information
