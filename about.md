@@ -18,4 +18,4 @@ Web-developer, SEO, Google Ads, Digital Marketing.
 
 ### Contact me
 
-[rob@robim.dev](rob@robim.dev)
+[mailto:rob@robim.dev](rob@robim.dev)
