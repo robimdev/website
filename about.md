@@ -4,11 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+BCompSc
+CCNA - Cisco Certified Network Associate
+Google Ads Partner
+Google Cloud Architect
+AWS Cloud Architect
+Oracle Cloud Partner
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Web-developer, SEO, Google Ads, Digital Marketing.
 
 ### Contact me
 
