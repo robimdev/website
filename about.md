@@ -10,6 +10,7 @@ Google Ads Partner<br>
 Google Cloud Architect<br>
 AWS Cloud Architect<br>
 Oracle Cloud Partner<br>
+CCNA<br>
 
 
 ### More Information
