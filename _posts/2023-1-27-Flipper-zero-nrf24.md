@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Using the NRF24 Module with the Flipper Zero"
+excerpt: The NRF24 module is a popular line of 2.4GHz radio transceivers from Nordic Semiconductors. It is a great choice for wireless projects, as it offers a wide range of features and is relatively easy to use.
 date: 2023-01-27
 ---
 
 ## The NRF24 module
 
 The NRF24 module is a popular line of 2.4GHz radio transceivers from Nordic Semiconductors. It is a great choice for wireless projects, as it offers a wide range of features and is relatively easy to use.
-
-<!--more-->
 
 ## Connecting the NRF24 module to the Flipper Zero
 
