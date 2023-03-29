@@ -2,7 +2,7 @@
 layout: post
 title: "Exploring OpenLiteSpeed"
 excerpt: OpenLiteSpeed is a fast, lightweight, and open-source web server that is perfect for small and medium-sized businesses. It is a great alternative to Apache, Nginx, and other popular web servers.
-date: 2023-03-28
+date: 2022-07-23
 categories: IoT Wireless_Communication Security_Research
 ---
 
