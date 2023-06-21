@@ -7,7 +7,7 @@ categories: [Tech, Reviews]
 ---
 
 
-![Razer Blade 18 and Razer Backpack 17 Inches]
+[Razer Blade 18 and Razer Backpack 17 Inches]
 
 Are you a proud owner of the powerful Razer Blade 18 gaming laptop? If so, you'll be pleased to know that it fits like a glove in the Razer Backpack designed for 17-inch laptops. Let's take a closer look at how this combination provides a perfect fit for your gaming needs.
 
