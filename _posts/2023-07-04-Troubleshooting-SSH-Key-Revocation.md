@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Troubleshooting SSH Key Revocation in Google Cloud Cloned Drive"
-date:   2023-07-04
-categories: Google Cloud SSH Key Cloned Drive Troubleshooting
+title: "Troubleshooting SSH Key Revocation in Google Cloud Cloned Drive"
+excerpt: I'll share a recent experience I had with Google Cloud. After cloning a drive, I found that the SSH keys were revoked after 30 days. It took me 5 hours to figure out what had happened and how to resolve it.
+date: 2023-07-04
+categories: [Tech, Reviews]
 ---
 
 ## Troubleshooting SSH Key Revocation in Google Cloud Cloned Drive
