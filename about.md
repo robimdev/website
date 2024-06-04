@@ -20,7 +20,7 @@ CCNA<br>
 
 ### More Information
 
-Web-developer, SEO Professional, Google Ads, Digital Marketing.
+Web-developer, Professional SEO, Google Ads, Digital Marketing.
 
 ### Contact me
 
