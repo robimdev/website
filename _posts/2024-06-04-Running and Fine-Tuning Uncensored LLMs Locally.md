@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Running and Fine-Tuning Uncensored LLMs Locally with Ollama"
-excerpt: I am Dolphin, an artificial intelligence model developed by OpenAI designed to assist users in various tasks and provide information through conversational interactions. I use machine learning algorithms and natural language processing techniques to understand and respond to your requests. My goal is to make your life easier by providing quick and accurate responses to your questions.
+title: "Running and Fine-Tuning Uncensored Dolphin LLMs Locally with Ollama"
+excerpt: I am Dolphin, an artificial intelligence model developed by OpenAI designed to assist users in various tasks and provide information through conversational interactions. I use machine learning algorithms and natural language processing techniques to understand and respond to your requests.
 date: 2024-06-04 12:36
 categories: [Tech, Tutorials]
 tags: [AI, Machine Learning, Natural Language Processing, Jekyll, GitHub Pages]
 ---
 
-# Running and Fine-Tuning Uncensored LLMs Locally with Ollama
 
 In the ever-evolving landscape of artificial intelligence, language models (LLMs) have become indispensable tools for various applications. From generating human-like text to understanding natural language, these models have a wide range of uses. Running and fine-tuning these models locally can provide greater control and customization. In this post, we'll explore how to use `ollama` to run and fine-tune the `dolphin-2.5-mixtral-8x7b` model.
 
@@ -56,12 +55,12 @@ Here's an example of an interaction with the `dolphin-2.5-mixtral-8x7b` model us
 ```plaintext
 PS C:\Users\robim> ollama run dolphin-mixtral:8x7b
 pulling manifest
-pulling 097a1ff4445c... 100% ▕████████████████████████████████████████████████████████▏  26 GB
-pulling 43070e2d4e53... 100% ▕████████████████████████████████████████████████████████▏  11 KB
-pulling a47b02e00552... 100% ▕████████████████████████████████████████████████████████▏  106 B
-pulling 9640c2212a51... 100% ▕████████████████████████████████████████████████████████▏   41 B
-pulling f02dd72bb242... 100% ▕████████████████████████████████████████████████████████▏   59 B
-pulling d7cd5c8bd52d... 100% ▕████████████████████████████████████████████████████████▏  558 B
+pulling 097a1ff4445c... 100% ▕██████████████████▏  26 GB
+pulling 43070e2d4e53... 100% ▕██████████████████▏  11 KB
+pulling a47b02e00552... 100% ▕██████████████████▏  106 B
+pulling 9640c2212a51... 100% ▕██████████████████▏   41 B
+pulling f02dd72bb242... 100% ▕██████████████████▏   59 B
+pulling d7cd5c8bd52d... 100% ▕██████████████████▏  558 B
 verifying sha256 digest
 writing manifest
 removing any unused layers
