@@ -50,6 +50,8 @@ To run and fine-tune the `dolphin-2.5-mixtral-8x7b` model using `ollama`, follow
 
 ## Example Interaction with the Model
 
+![Please don't try to cook drugs](/images/dolphin_uncensored.png)
+
 Here's an example of an interaction with the `dolphin-2.5-mixtral-8x7b` model using `ollama`:
 
 ```plaintext
