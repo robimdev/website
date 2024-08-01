@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+<!--
 <a href="https://www.google.com/partners/agency?id=2114776612" target="_blank">
     <img src="https://www.gstatic.com/partners/badge/images/2023/PartnerBadgeClickable.svg"/>
 </a>
@@ -25,3 +25,4 @@ Web-developer, Professional SEO, Google Ads, Digital Marketing.
 ### Contact me
 
 [rob@robim.dev](mailto:rob@robim.dev)
+-->
